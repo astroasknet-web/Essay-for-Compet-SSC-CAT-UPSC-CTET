@@ -1,0 +1,105 @@
+{
+  "essay": "The famous dictum that 'power tends to corrupt and absolute power corrupts absolutely' is often misread as an indictment of power itself. A more nuanced philosophical view holds that power does not inherently create malice; rather, it acts as an amplifier. It strips away constraints, exposes pre-existing character flaws, and magnifies them. A person of integrity may use authority to uplift others, while a fool may use it to wreak havoc. Thus, the corruption attributed to power is often the corruption of the person wielding it—power merely reveals what was already there.\n\nThe danger of incompetence is particularly acute when unqualified individuals attain high office. Lacking systemic understanding, intellectual depth, and humility, such leaders inadvertently dismantle institutional integrity through sheer ignorance and hubris. They may confuse confidence with competence, override expert advice, and make catastrophic decisions that undermine the very structures they are meant to protect. Incompetence is not merely a passive failure; it is an active force that erodes trust, efficiency, and stability.\n\nInsecurity often compounds the problem. Leaders who lack intellectual depth and emotional intelligence frequently resort to micromanagement, nepotism, and the silencing of dissent to mask their own inadequacies. Fearful of being exposed, they surround themselves with sycophants, punish honest feedback, and centralize decision-making. Such authoritarian tendencies are not signs of strength but of deep insecurity. They create a culture of fear, stifle innovation, and drive away talent, ultimately weakening the organization or nation.\n\nHistory offers numerous precedents of regimes and corporations that collapsed not solely due to absolute tyranny but due to catastrophic administrative ineptitude and poor decision-making. From monarchs who ignored counsel to modern corporate boards that promoted loyalists over experts, the pattern is clear: foolish leadership corrupts power and destroys institutions. These failures are often less dramatic than tyranny but equally devastating, as they unfold through a series of avoidable blunders, missed warnings, and misplaced priorities.\n\nThis is why the necessity of meritocracy cannot be overstated. Modern democratic, military, and corporate structures must fiercely protect merit-based progression to ensure that power is wielded by the ethically and intellectually competent. When appointments are based on nepotism, patronage, or popularity rather than proven ability, the result is predictable: incompetence rises, institutions decay, and power is corrupted. Meritocracy is not a luxury; it is a safeguard against the fool's corruption of power.\n\nInstitutional checks and balances play a critical role in mitigating the widespread damage caused by foolish or erratic leadership. An independent judiciary, a free press, and a strong opposition act as early warning systems and corrective mechanisms. They expose incompetence, restrain hubris, and provide avenues for accountability. Without such checks, even well-meaning leaders can drift into folly, and foolish leaders can cause irreversible harm. Checks and balances do not assume the worst of human nature; they recognize the fragility of power and the importance of guarding against its misuse.\n\nFinally, the 'Philosopher King' ideal, as envisioned by Plato, contrasts sharply with the modern reality of populist demagoguery fueled by rhetoric rather than capability. Plato argued that only those with wisdom, education, and a commitment to the common good should rule. While his ideal may be impractical, it highlights a timeless truth: leadership requires more than charisma or ambition; it requires knowledge, judgment, and moral grounding. When fools gain power, they corrupt it because they lack these qualities. The solution is not to abolish power but to ensure that it is entrusted to the competent and constrained by robust institutions. Power itself is neutral; it is the character and capability of those who wield it that determine whether it becomes a force for good or a tool of destruction.",
+  "questions": [
+    {
+      "question": "According to the essay, what does power primarily do to a person's character?",
+      "options": [
+        "It creates malice where none existed before.",
+        "It acts as an amplifier, exposing and magnifying pre-existing traits.",
+        "It always corrupts the person who holds it.",
+        "It removes all moral responsibility from the holder."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "The essay suggests that the danger of incompetence in high office arises mainly because unqualified leaders:",
+      "options": [
+        "Are always intentionally malicious.",
+        "Lack systemic understanding and may dismantle institutional integrity.",
+        "Have too much emotional intelligence.",
+        "Rely too heavily on expert advice."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Why do insecure leaders often resort to micromanagement and silencing dissent, as per the essay?",
+      "options": [
+        "To promote transparency and accountability.",
+        "To mask their own inadequacies and fear of exposure.",
+        "To encourage innovation and diverse opinions.",
+        "To strengthen democratic institutions."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following best describes the historical precedents mentioned in the essay?",
+      "options": [
+        "Collapses occur only due to absolute tyranny.",
+        "Administrative ineptitude and poor decision-making have caused institutional failures.",
+        "Historical regimes never suffered from incompetent leadership.",
+        "Corporate failures are unrelated to leadership quality."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "The essay argues that meritocracy is necessary because:",
+      "options": [
+        "It ensures power is wielded by the ethically and intellectually competent.",
+        "It guarantees that no leader will ever make a mistake.",
+        "It eliminates the need for institutional checks and balances.",
+        "It allows populist demagogues to rise quickly."
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which of the following is NOT mentioned in the essay as an institutional check and balance?",
+      "options": [
+        "An independent judiciary",
+        "A free press",
+        "A strong opposition",
+        "A hereditary monarchy"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Plato's 'Philosopher King' ideal is contrasted in the essay with:",
+      "options": [
+        "Merit-based leadership.",
+        "Populist demagoguery fueled by rhetoric rather than capability.",
+        "Strong institutional checks and balances.",
+        "Enlightened, educated leadership."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "According to the essay, what is the relationship between power and corruption?",
+      "options": [
+        "Power always corrupts absolutely.",
+        "Power is neutral; the character and capability of the wielder determine its effects.",
+        "Only fools can be corrupted by power.",
+        "Corruption is inherent in all forms of authority."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "The essay states that institutional checks and balances are important because they:",
+      "options": [
+        "Assume the worst of human nature and punish all leaders.",
+        "Expose incompetence, restrain hubris, and provide accountability.",
+        "Replace the need for competent leadership.",
+        "Ensure that only fools gain power."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which statement best summarizes the essay's central argument?",
+      "options": [
+        "Power corrupts all men, so we must abolish power.",
+        "Fools corrupt power when they gain it; therefore, meritocracy and institutional checks are essential.",
+        "Only philosopher kings should be allowed to rule in modern democracies.",
+        "Incompetence is less dangerous than tyranny in all historical cases."
+      ],
+      "answer": "B"
+    }
+  ]
+}

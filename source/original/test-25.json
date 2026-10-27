@@ -1,0 +1,115 @@
+{
+  "essay": "Net-zero carbon without net-equity is environmental colonialism. The global race to achieve carbon neutrality is necessary, but if it is pursued without addressing historical injustices and developmental needs, it becomes a new form of colonialism. The following arguments explain why carbon neutrality must be built on climate justice.\n\nFirst, historical carbon debt. The Global North built its advanced economic prosperity through two centuries of unchecked industrial emissions. From the Industrial Revolution onward, countries like Britain, the United States, and Western European nations burned coal, oil, and gas to power factories, railways, and cities. This emitted enormous quantities of carbon dioxide, using up a disproportionate share of the atmosphere's finite carbon budget. Now, the same nations demand that the Global South abandon fossil fuels and adopt net-zero targets on short timelines. This is deeply unjust. Developing nations did not cause the climate crisis, yet they are being penalized for trying to industrialize. The North's prosperity was carbon-intensive; the South's development cannot be carbon-forbidden. Without acknowledging this debt, net-zero becomes a tool to freeze global inequality.\n\nSecond, Common But Differentiated Responsibilities (CBDR). This foundational UN climate principle asserts that developing nations cannot be held to the exact same transition timelines as fully industrialized nations. CBDR, enshrined in the Rio Declaration and the UNFCCC, recognizes historical responsibility and respective capabilities. Rich countries must lead in emission cuts and provide finance and technology to the South. In practice, however, developed nations often push uniform targets, ignoring their own head start. They demand that India or Nigeria peak emissions immediately, while they themselves took decades to transition. CBDR is not a loophole; it is a principle of fairness. Any climate regime that ignores it will fail.\n\nThird, the hypocrisy of outsourced emissions. Developed nations boast aggressive domestic climate targets while simultaneously consuming goods manufactured in heavily polluting factories outsourced to Asia. A country may show declining territorial emissions while its consumption-based emissions remain high. For example, Europe and North America import steel, cement, textiles, and electronics from China, India, and Vietnam, where emissions are counted in the producer country. The North then claims climate leadership while effectively exporting its carbon footprint. This is carbon leakage and hypocrisy. True decarbonization must account for consumption, not just production. Without border carbon adjustments or consumption-based accounting, net-zero claims are misleading.\n\nFourth, the failure of climate finance. Wealthy nations promised to deliver $100 billion+ annually for technology transfer and climate adaptation in vulnerable, poorer countries. This promise remains broken. Without adequate finance, developing nations cannot transition to green energy, build resilient infrastructure, or adapt to floods, droughts, and heatwaves. Climate finance is not charity; it is reparation for historical emissions and a condition for global decarbonization. The failure undermines trust and blocks progress at every COP summit. If the North cannot deliver on a modest $100 billion pledge, its net-zero rhetoric rings hollow.\n\nFifth, the right to basic development. Developing nations desperately need access to the remaining global carbon budget to eradicate extreme poverty, build basic infrastructure, and ensure energy security for their citizens. Hundreds of millions lack electricity, clean cooking, and decent roads. They cannot be asked to sacrifice development for a crisis they did not cause. Equity means allowing them a fair share of the carbon space. India's per capita emissions are a fraction of those in the US or Europe. Asking India to stop developing is morally unacceptable. Net-zero must allow the South to meet its human development goals.\n\nSixth, the \"green\" resource grab. The emerging dynamic where the Global North extracts critical transition minerals such as lithium and cobalt from the Global South, leaving local environments devastated for Western EV markets. This is neocolonialism in green disguise. Mining in the Democratic Republic of Congo, Chile, and elsewhere often involves child labor, water pollution, and land dispossession. The North gets clean cars; the South gets poisoned rivers and displaced communities. A just transition must ensure that mineral extraction respects human rights, pays fair royalties, and does not repeat colonial patterns.\n\nSeventh, true climate justice. The imperative that international climate frameworks must tie emission reduction targets directly to socio-economic equity, financial compensation, and human development indices. Net-zero without net-equity is environmental colonialism. Climate justice demands that those who polluted most pay most, that technology is shared, and that transitions are just for workers and communities. It requires democratic accountability and the participation of marginalized voices. Only then can we achieve a fair and effective climate regime.\n\nIn conclusion, net-zero carbon targets are meaningless if they deepen inequality. The Global North must honor its historical debt, provide climate finance, respect CBDR, stop outsourced emissions and resource grabs, and support the South's right to development. Net-zero with net-equity is the only path to a livable future.",
+  "questions": [
+    {
+      "question": "What does the essay mean by 'historical carbon debt'?",
+      "options": [
+        "Financial debt owed by developing nations to developed nations.",
+        "The carbon emissions accumulated by the Global North over two centuries of industrialization.",
+        "The debt of climate finance promised by wealthy nations.",
+        "The carbon budget remaining for future generations."
+      ],
+      "correct_answer": "B",
+      "answer": "B. The carbon emissions accumulated by the Global North over two centuries of industrialization."
+    },
+    {
+      "question": "Which principle asserts that developing nations cannot be held to the same transition timelines as industrialized nations?",
+      "options": [
+        "Polluter Pays Principle",
+        "Common But Differentiated Responsibilities (CBDR)",
+        "Precautionary Principle",
+        "Sustainable Development Goals"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Common But Differentiated Responsibilities (CBDR)"
+    },
+    {
+      "question": "What is 'outsourced emissions' as described in the essay?",
+      "options": [
+        "Emissions reduced through outsourcing renewable energy projects.",
+        "Emissions shifted to developing countries through manufacturing of goods consumed in developed nations.",
+        "Emissions from international aviation and shipping.",
+        "Emissions saved by importing carbon credits."
+      ],
+      "correct_answer": "B",
+      "answer": "B. Emissions shifted to developing countries through manufacturing of goods consumed in developed nations."
+    },
+    {
+      "question": "The essay criticizes developed nations for failing to deliver what annual amount for climate finance?",
+      "options": [
+        "$50 billion",
+        "$100 billion+",
+        "$500 billion",
+        "$1 trillion"
+      ],
+      "correct_answer": "B",
+      "answer": "B. $100 billion+"
+    },
+    {
+      "question": "Why does the essay argue that developing nations need access to the remaining carbon budget?",
+      "options": [
+        "To build luxury infrastructure and increase consumption.",
+        "To eradicate extreme poverty, build basic infrastructure, and ensure energy security.",
+        "To compete with developed nations in industrial output.",
+        "To fund space exploration programs."
+      ],
+      "correct_answer": "B",
+      "answer": "B. To eradicate extreme poverty, build basic infrastructure, and ensure energy security."
+    },
+    {
+      "question": "What is the 'green' resource grab mentioned in the essay?",
+      "options": [
+        "Developed nations buying green bonds from developing countries.",
+        "Extraction of critical transition minerals from the Global South for Western EV markets, causing environmental devastation.",
+        "Developing nations grabbing green technology patents.",
+        "Illegal logging of forests for green furniture."
+      ],
+      "correct_answer": "B",
+      "answer": "B. Extraction of critical transition minerals from the Global South for Western EV markets, causing environmental devastation."
+    },
+    {
+      "question": "According to the essay, what does true climate justice require?",
+      "options": [
+        "Uniform emission reduction targets for all nations regardless of development status.",
+        "Tying emission reduction targets to socio-economic equity, financial compensation, and human development indices.",
+        "Complete elimination of all fossil fuel use by 2030.",
+        "Reliance solely on technological solutions like carbon capture."
+      ],
+      "correct_answer": "B",
+      "answer": "B. Tying emission reduction targets to socio-economic equity, financial compensation, and human development indices."
+    },
+    {
+      "question": "Which of the following is NOT mentioned in the essay as a form of environmental colonialism?",
+      "options": [
+        "Historical carbon debt",
+        "Outsourced emissions",
+        "Green resource grab",
+        "Unlimited climate finance transfers from North to South"
+      ],
+      "correct_answer": "D",
+      "answer": "D. Unlimited climate finance transfers from North to South"
+    },
+    {
+      "question": "The essay states that without net-equity, net-zero carbon is:",
+      "options": [
+        "Still acceptable as a temporary measure.",
+        "Environmental colonialism.",
+        "The only feasible path.",
+        "A solution to global inequality."
+      ],
+      "correct_answer": "B",
+      "answer": "B. Environmental colonialism."
+    },
+    {
+      "question": "What is the central argument of the essay?",
+      "options": [
+        "Net-zero carbon targets are sufficient to solve the climate crisis.",
+        "Net-zero carbon without net-equity is environmental colonialism; climate justice is essential.",
+        "Developing nations should abandon development to achieve net-zero.",
+        "Climate finance is unnecessary because technology will solve everything."
+      ],
+      "correct_answer": "B",
+      "answer": "B. Net-zero carbon without net-equity is environmental colonialism; climate justice is essential."
+    }
+  ]
+}

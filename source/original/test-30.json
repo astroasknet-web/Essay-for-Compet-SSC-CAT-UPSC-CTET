@@ -1,0 +1,106 @@
+{
+  "title": "Social Media Addiction: A Boon or Bane for Humanity in the Long Run?",
+  "essay": "Social media addiction is one of the defining dilemmas of the digital age. Platforms such as Facebook, Instagram, YouTube, X and TikTok have transformed communication, commerce, education and activism. Yet the same technologies can capture attention so effectively that ordinary use slides into compulsive dependence. The long-run question is not whether social media is simply a boon or a bane, but whether societies can govern its addictive design, harness its democratic and economic benefits, and contain its psychological and civic costs. On present evidence, social media is a mixed blessing: a powerful boon in access and opportunity, but a serious bane when addiction is left to the logic of engagement maximisation.\n\nThe first driver is the dopamine economy. Platform algorithms are not neutral utilities; they are engineered by behavioural psychologists and data scientists to maximise screen time. Infinite scroll, autoplay, push notifications, streaks, variable rewards and personalised feeds create intermittent reinforcement, the same psychological mechanism associated with gambling. Every like, share and notification delivers a small dopamine hit, conditioning users to return compulsively. Because revenue depends on attention, platforms aggressively optimise for retention rather than user wellbeing. This cultivates severe psychological dependency, especially among young users whose self-regulation is still developing. The result is a system that profits from habit, distraction and anxiety.\n\nAt the same time, social media has democratised voice. Marginalised communities, activists, artists and small entrepreneurs can reach global audiences without traditional gatekeepers. Movements for justice, health awareness and disaster relief have been mobilised online. But this democratisation coexists with polarisation. Engagement algorithms reward outrage, conflict and moral certainty because these emotions generate clicks. Users are pushed into echo chambers where nuance is punished and opponents are caricatured. Public conversation becomes tribal, and civic discourse is torn apart by viral confrontation rather than deliberation. Thus the same architecture that gives the marginalised a megaphone also amplifies extremism and social division.\n\nThe mental health epidemic is the most troubling cost. Heavy social media use is correlated with rising anxiety, depression and body dysmorphia, particularly among adolescents. Social comparison, curated perfection, cyberbullying, sleep disruption and validation-seeking all contribute. Correlation is not always causation, but the consistency of evidence across countries and age groups is enough to demand precaution. Young people are especially vulnerable because their identities and social rewards are increasingly mediated by metrics such as likes, followers and views. A platform designed for engagement can therefore become a machine for insecurity.\n\nThe commodification of attention compounds this damage. Human focus is shifted away from deep work, critical reading and real-world skill acquisition toward passive consumption of infinite, shallow content. Short videos, trending hashtags and algorithmic recommendations fragment attention spans and reward novelty over understanding. The capacity for sustained concentration, which underpins education, craftsmanship and democratic citizenship, is eroded. When attention becomes a commodity, users pay not only with time but with the quality of their thinking.\n\nYet social media also delivers genuine economic boons. The creator economy allows small businesses, educators and independent creators to bypass traditional gatekeepers and build global livelihoods. A village artisan can sell directly to overseas customers; a teacher can reach millions; a journalist can publish without a media house. Low entry barriers, digital payments and audience analytics have created opportunities unimaginable in the pre-platform economy. For many, social media is not merely entertainment but a ladder of mobility and entrepreneurship.\n\nThe most dangerous long-term threat, however, is the erosion of objective truth. Deepfakes, automated bot networks and targeted propaganda spread rapidly and threaten electoral integrity, public health and basic factual reality. Virality rewards emotional arousal over accuracy, so falsehood often travels faster than correction. When citizens cannot agree on facts, democratic accountability collapses. The problem is not merely misinformation but the industrial-scale production of doubt.\n\nThe regulatory imperative is therefore urgent. Societies need strict algorithmic regulation, including transparency, audits and limits on engagement-maximising design for minors. Comprehensive data privacy laws must curb surveillance-based business models. Mandatory digital literacy education should teach citizens to recognise manipulation, verify sources and manage attention. Platform accountability should be enforced through law, not voluntary codes. The aim is not to ban social media but to reclaim human agency from tech monopolies.\n\nIn conclusion, social media addiction is not an unqualified boon or bane. It is a conditional technology. Its benefits in voice, learning and livelihood are real, but its addictive architecture, mental health costs, attention theft and truth erosion are also real. In the long run, humanity will gain only if regulation, ethical design and digital literacy subordinate engagement metrics to human flourishing. Without that correction, the dopamine economy will continue to convert attention into profit while converting citizenship into compulsion.",
+  "questions": [
+    {
+      "question": "What is the central argument of the essay?",
+      "options": [
+        "Social media is an unqualified boon for humanity.",
+        "Social media addiction is a conditional problem whose long-term outcome depends on regulation, ethical design and digital literacy.",
+        "Social media should be completely banned for all users.",
+        "Social media has no economic or democratic benefits."
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "In the essay, the 'dopamine economy' refers to:",
+      "options": [
+        "An economic system based on dopamine medication",
+        "Monetisation of attention through algorithms designed to maximise screen time and compulsive use",
+        "A government scheme for digital payments",
+        "An economy driven only by creator subscriptions"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a mechanism used by platforms to maximise screen time?",
+      "options": [
+        "Infinite scroll",
+        "Autoplay",
+        "Push notifications",
+        "Mandatory weekly digital detox"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "The paradox of 'democratization vs polarization' is best described as:",
+      "options": [
+        "Platforms give marginalised groups a voice but algorithms amplify outrage and echo chambers.",
+        "Platforms remove all gatekeepers and therefore end polarisation.",
+        "Democracy requires social media to ban all political speech.",
+        "Polarisation occurs only in traditional media."
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "According to the essay, heavy social media use is particularly linked to which mental health concerns among adolescents?",
+      "options": [
+        "Anxiety, depression and body dysmorphia",
+        "Only physical injuries",
+        "Improved sleep and self-esteem",
+        "Reduced social comparison"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "The 'commodification of attention' leads to:",
+      "options": [
+        "Greater deep work and critical reading",
+        "Passive consumption of shallow content and fragmented focus",
+        "Complete elimination of entertainment",
+        "Automatic acquisition of real-world skills"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which economic benefit of social media is highlighted in the essay?",
+      "options": [
+        "The creator economy allows small businesses and creators to bypass traditional gatekeepers.",
+        "Social media has eliminated all small businesses.",
+        "Only large corporations benefit from social media.",
+        "Social media prevents global livelihoods."
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which threats to objective truth are explicitly mentioned?",
+      "options": [
+        "Deepfakes, bot networks and targeted propaganda",
+        "Only handwritten letters",
+        "Traditional classroom lectures",
+        "Public libraries and peer-reviewed journals"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "The regulatory imperative in the essay includes:",
+      "options": [
+        "Algorithmic regulation, data privacy laws and digital literacy education",
+        "A total ban on all digital devices",
+        "Removal of all privacy laws",
+        "Encouraging engagement-maximising design for minors"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which statement best reflects the essay's conclusion?",
+      "options": [
+        "Social media is purely beneficial and needs no regulation.",
+        "Social media is purely harmful and must be banned.",
+        "Long-term benefit requires subordinating engagement metrics to human flourishing through regulation, ethical design and literacy.",
+        "Addiction is unavoidable and regulation is impossible."
+      ],
+      "answer": "C"
+    }
+  ]
+}

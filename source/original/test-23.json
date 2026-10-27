@@ -1,0 +1,115 @@
+{
+  "essay": "Urbanization and City Floods: The Collapse of Civic Infrastructure in Metros\n\nUrban flooding has become an annual calamity in many Indian metropolitan cities, from Mumbai and Chennai to Bengaluru and Hyderabad. While extreme rainfall is often blamed, the deeper crisis lies in the collapse of civic infrastructure caused by unplanned urbanization. The following points illustrate how human actions and administrative failures have turned cities into flood traps.\n\nRampant concretization is the first culprit. The aggressive paving of urban landscapes—roads, sidewalks, parking lots, and buildings—completely destroys natural soil percolation. When rain falls on concrete, it cannot soak into the ground; instead, it is instantly converted into high-velocity surface runoff. This runoff concentrates in low-lying areas, overwhelming drains and causing flash floods. The loss of green cover and open soil means that cities have no natural mechanism to absorb even moderate rainfall. As a result, even short spells of rain lead to waterlogging and traffic chaos.\n\nEncroachment on ecological buffers has eliminated the city's natural sponges. Wetlands, natural lakes, and river floodplains have been systematically filled, often illegally, by real estate developers. These ecosystems historically absorbed excess rainwater and released it slowly. Their destruction removes critical flood mitigation. For example, the filling of lakes in Bengaluru and the encroachment on the Mithi river floodplain in Mumbai have directly contributed to severe flooding. Builders prioritize profit over ecological services, and weak enforcement allows this to continue.\n\nAntiquated drainage networks compound the problem. Many cities still rely on colonial-era stormwater drains or poorly mapped systems that are perpetually choked with solid waste, plastic, and sewage. These drains were designed for a different era and rainfall pattern. During cloudbursts, they become useless, leading to waterlogging and backflow. Lack of maintenance and illegal dumping exacerbate the blockage. Municipalities often lack updated drainage master plans and fail to invest in desilting and waste segregation at source.\n\nClimate-altered rainfall patterns have shifted toward high-intensity, short-duration extreme weather events. Cloudbursts and intense spells overwhelm even modern municipal infrastructure within hours. Climate change is making such events more frequent. Cities designed for moderate rainfall cannot cope with 100 mm in an hour. The combination of climate change and urban heat island effect further intensifies local rainfall, catching authorities off guard.\n\nAdministrative fragmentation is a major governance failure. Multiple civic bodies—municipal corporations, water boards, development authorities, and parastatals—often work without coordination. Disaster management is reactive and piecemeal. No single agency owns the entire drainage basin or flood risk. This leads to blame games and delayed responses. For instance, drains may be maintained by one body while roads are built by another, resulting in mismatched planning.\n\nAdopting the \"Sponge City\" framework is an urgent solution. Urban master plans must be redesigned with permeable pavements, rain gardens, restored urban forests, and interconnected green corridors. These mimic natural hydrological processes, allowing water to infiltrate, store, and slowly release. China's sponge city initiative offers a model. Indian cities need mandatory green infrastructure norms, incentives for rooftop rainwater harvesting, and restoration of water bodies as sponges.\n\nStrict zoning enforcement is politically and legally necessary. Illegal constructions must be cleared from floodplains. All future urban mega-projects must undergo hydrological impact assessments. Without enforcement, laws remain paper tigers. Political will is required to prioritize flood resilience over real estate profits. Courts and regulators must hold developers accountable for violating environmental clearances.\n\nIn conclusion, city floods are not merely natural disasters but man-made catastrophes rooted in greed, poor planning, and administrative apathy. Only a combination of ecological restoration, infrastructure overhaul, and strict governance can save our metros. Technology and engineering alone cannot fix a system that ignores nature and accountability.",
+  "questions": [
+    {
+      "question": "What is the primary reason for increased surface runoff in urban areas according to the essay?",
+      "options": [
+        "Rampant concretization that destroys natural soil percolation",
+        "Excessive rainfall due to climate change",
+        "Poor maintenance of stormwater drains",
+        "Encroachment on wetlands"
+      ],
+      "correct_answer": "A",
+      "answer": "A. Rampant concretization that destroys natural soil percolation"
+    },
+    {
+      "question": "Which of the following is given as an example of encroachment on ecological buffers?",
+      "options": [
+        "Construction of permeable pavements",
+        "Filling of lakes and river floodplains by real estate developers",
+        "Restoration of urban forests",
+        "Installation of rain gardens"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Filling of lakes and river floodplains by real estate developers"
+    },
+    {
+      "question": "Why are antiquated drainage networks ineffective during cloudbursts?",
+      "options": [
+        "They are too wide and carry water too quickly.",
+        "They are perpetually choked with solid waste, plastic, and sewage.",
+        "They are designed for high-intensity rainfall.",
+        "They are maintained by a single unified agency."
+      ],
+      "correct_answer": "B",
+      "answer": "B. They are perpetually choked with solid waste, plastic, and sewage."
+    },
+    {
+      "question": "What is the 'Sponge City' framework aimed at achieving?",
+      "options": [
+        "Increasing concrete surfaces for faster drainage",
+        "Redesigning urban areas with permeable pavements, rain gardens, and green corridors",
+        "Expanding colonial-era drainage systems",
+        "Encouraging more construction on floodplains"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Redesigning urban areas with permeable pavements, rain gardens, and green corridors"
+    },
+    {
+      "question": "Administrative fragmentation in Indian metros leads to which of the following?",
+      "options": [
+        "Coordinated and efficient disaster management",
+        "Reactive and piecemeal disaster management due to lack of coordination",
+        "Unified ownership of drainage basins",
+        "Rapid clearance of illegal constructions"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Reactive and piecemeal disaster management due to lack of coordination"
+    },
+    {
+      "question": "Climate-altered rainfall patterns are characterized by:",
+      "options": [
+        "Low-intensity, long-duration rainfall",
+        "High-intensity, short-duration extreme weather events",
+        "Uniform rainfall throughout the year",
+        "Decreasing frequency of cloudbursts"
+      ],
+      "correct_answer": "B",
+      "answer": "B. High-intensity, short-duration extreme weather events"
+    },
+    {
+      "question": "What does the essay suggest about strict zoning enforcement?",
+      "options": [
+        "It is unnecessary because technology can solve flooding.",
+        "It is politically and legally necessary to clear illegal constructions from floodplains.",
+        "It should be relaxed to promote real estate development.",
+        "It is the sole responsibility of developers."
+      ],
+      "correct_answer": "B",
+      "answer": "B. It is politically and legally necessary to clear illegal constructions from floodplains."
+    },
+    {
+      "question": "In the essay, 'natural sponges' refer to:",
+      "options": [
+        "Concrete pavements that absorb water",
+        "Wetlands, natural lakes, and river floodplains",
+        "Stormwater drains",
+        "Urban forests planted on rooftops"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Wetlands, natural lakes, and river floodplains"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a cause of urban floods in the essay?",
+      "options": [
+        "Rampant concretization",
+        "Encroachment on ecological buffers",
+        "Excessive use of permeable pavements",
+        "Antiquated drainage networks"
+      ],
+      "correct_answer": "C",
+      "answer": "C. Excessive use of permeable pavements"
+    },
+    {
+      "question": "What is the central argument of the essay?",
+      "options": [
+        "Urban floods are purely natural disasters caused by extreme rainfall.",
+        "City floods are man-made catastrophes rooted in unplanned urbanization, greed, and administrative apathy.",
+        "Technology alone can solve urban flooding.",
+        "Climate change is the only reason for city floods."
+      ],
+      "correct_answer": "B",
+      "answer": "B. City floods are man-made catastrophes rooted in unplanned urbanization, greed, and administrative apathy."
+    }
+  ]
+}

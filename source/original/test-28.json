@@ -1,0 +1,146 @@
+{
+  "essay_title": "Uniform Civil Code (UCC): Balancing Constitutional Ideals with Cultural Plurality",
+  "essay": "The Uniform Civil Code (UCC) is one of the most contested yet constitutionally anchored ideas in Indian law. It denotes a single set of civil rules governing marriage, divorce, succession, adoption and maintenance for all citizens, irrespective of religion. Article 44 of the Constitution, placed in Part IV (Directive Principles of State Policy), directs the State to \"endeavour to secure for the citizens a uniform civil code throughout the territory of India.\" Being non-justiciable, Article 44 is not enforceable by courts, but it remains a fundamental guide to governance and a promise of equal citizenship. The core challenge is to reconcile this constitutional ideal with India's deep cultural and religious plurality.\n\nThe constitutional mandate of Article 44 emerged from the Constituent Assembly's search for national integration. The framers located the UCC in the Directive Principles rather than in fundamental rights as a deliberate compromise between legal uniformity and pluralist accommodation. Dr B.R. Ambedkar argued that a uniform code would promote national unity, while others feared it would undermine minority identity. The Supreme Court has repeatedly invoked Article 44—in Shah Bano (1985), Sarla Mudgal (1995) and John Vallamattom (2003)—asking the State to move towards a common code. Yet the 21st Law Commission's 2018 consultation paper famously described a UCC as \"neither necessary nor desirable at this stage,\" preferring reform of discriminatory provisions within personal laws. The 22nd Law Commission invited public views in 2023 but was wound up in August 2024 without submitting a report. The constitutional mandate thus remains an unfulfilled aspiration rather than an enacted reality.\n\nThe strongest case for a UCC is gender justice. Personal laws across communities contain provisions that disadvantage women. Under Muslim personal law, a daughter ordinarily inherits half the share of a son, and practices such as polygamy, unilateral talaq, halala and iddat have been criticised as incompatible with dignity and equality. Hindu law, before the 2005 amendment to the Hindu Succession Act, excluded daughters from coparcenary rights; the amendment made daughters coparceners by birth, but implementation gaps persist. The Indian Divorce Act, 1869, until its 2001 amendment, required Christian women to prove adultery plus cruelty or desertion, while men could divorce on adultery alone; Parsi law has also disadvantaged women who marry outside the community. Adoption and guardianship rules remain unequal across faiths. These are not matters of essential religious doctrine but of civil status and property, and they violate Articles 14, 15 and 21. Article 15(3) expressly permits special provisions for women, and India's CEDAW obligations reinforce the demand for gender-just family law.\n\nYet the path to uniformity is fraught because India's diversity is not an abstraction. Religious minorities, tribal communities governed by Fifth and Sixth Schedule protections, and customary systems all fear that a majoritarian template will erase their legal identities. Even the Uttarakhand UCC Act, 2024—the first state law of its kind, enforced from 27 January 2025—expressly excludes Scheduled Tribes from its operation. Union ministers have reiterated that tribal areas in the Northeast and Fifth/Sixth Schedule regions will remain outside any national UCC. This is a tacit admission that uniformity cannot be achieved by simple majoritarian codification; it requires negotiated accommodation, exemptions and transitional protections.\n\nThe debate also engages the constitutional tension between secularism and freedom of religion. Article 25(1) guarantees the freedom of conscience and the right to profess, practise and propagate religion, while Article 25(2)(a) permits the State to regulate \"secular activity which may be associated with religious practice,\" and Article 25(2)(b) enables social welfare and reform. The essential religious practices doctrine protects only practices integral to a faith, not every civil custom that has attached itself to religious identity. Inheritance, marriage and divorce are increasingly viewed as civil matters; the Supreme Court has observed that property rights of women cannot be treated as essential religious practice. Still, the Uttarakhand UCC has been challenged under Articles 25 and 26, and the fear that reform may become interference is real. A secular UCC must be framed in the language of rights and gender justice, not in the language of religious majoritarianism.\n\nThat fear is intensified by the political weaponisation of the UCC. The issue features repeatedly in election manifestos and political speeches, often as a symbol of majoritarian assertion rather than as a measure of equal citizenship. Critics argue that a UCC imposed from above would target Muslim men, polarise communities and erode minority trust. The Prime Minister's 2024 Independence Day reference to a \"secular civil code\" sought to reframe the debate, but suspicion persists because the process has not been genuinely consultative. If the UCC is perceived as an instrument of cultural dominance, it will fail even if its text is formally uniform. Constitutional morality requires deliberation, consensus-building and respect for plural identities, not the arithmetic of electoral majorities.\n\nGiven these risks, a piecemeal approach has much to recommend it. The Hindu Code Bill of the 1950s reformed Hindu personal law gradually. The Shah Bano litigation of 1985 was followed by the Muslim Women (Protection of Rights on Divorce) Act, 1986, which diluted the judgment but kept the issue alive. The Shayara Bano judgment of 2017 set aside instant triple talaq, and Parliament enacted the Muslim Women (Protection of Rights on Marriage) Act, 2019, criminalising it. These reforms were incremental, built around specific injustices, and allowed social opinion to evolve. Piecemeal reform is not a substitute for a UCC, but it can create the conditions for a broader code by demonstrating that reform is compatible with constitutional values and does not amount to religious annihilation.\n\nUltimately, an equitable UCC must be drafted by borrowing the most progressive, gender-just elements from all personal laws rather than imposing one community's framework. It should adopt equal inheritance rights, monogamy, equal grounds for divorce, equal guardianship, uniform adoption rules and maintenance provisions such as those under Section 125 CrPC, while incorporating the Uttarakhand experiment's compulsory registration of marriages and live-in relationships. It must preserve tribal customary protections where they are consistent with equality, and provide a transition period for communities. The drafting process should be transparent, consultative and led by constitutional principles rather than political expediency.\n\nThe UCC is therefore best understood as a constitutional horizon rather than an immediate blanket statute. Article 44 remains a promise of equal citizenship, but its realisation must balance uniformity with plurality, gender justice with freedom of religion, and reform with consent. A code that borrows the best from every tradition, and imposes nothing by domination, can transform Article 44 from a directive into a living instrument of justice.",
+  "mcqs": [
+    {
+      "question": "Article 44 of the Constitution of India, which deals with the Uniform Civil Code, is placed in which Part?",
+      "options": {
+        "A": "Part III — Fundamental Rights",
+        "B": "Part IV — Directive Principles of State Policy",
+        "C": "Part IVA — Fundamental Duties",
+        "D": "Part V — Union"
+      },
+      "answer": {
+        "option": "B",
+        "text": "Part IV — Directive Principles of State Policy"
+      },
+      "explanation": "Article 44 is a Directive Principle of State Policy in Part IV and is non-justiciable, though it guides state policy."
+    },
+    {
+      "question": "The 21st Law Commission, in its 2018 consultation paper, described a Uniform Civil Code as:",
+      "options": {
+        "A": "immediately necessary for national integration",
+        "B": "neither necessary nor desirable at this stage",
+        "C": "unconstitutional and violative of Article 25",
+        "D": "mandatory under Article 44 within five years"
+      },
+      "answer": {
+        "option": "B",
+        "text": "neither necessary nor desirable at this stage"
+      },
+      "explanation": "The 21st Law Commission preferred reform of discriminatory personal law provisions over a blanket UCC at that stage."
+    },
+    {
+      "question": "The Shah Bano case (1985) is associated with which of the following issues?",
+      "options": {
+        "A": "Right to maintenance of a divorced Muslim woman",
+        "B": "Ban on triple talaq",
+        "C": "Uniform inheritance rights for daughters",
+        "D": "Registration of live-in relationships"
+      },
+      "answer": {
+        "option": "A",
+        "text": "Right to maintenance of a divorced Muslim woman"
+      },
+      "explanation": "In Mohd. Ahmed Khan v. Shah Bano Begum, the Supreme Court upheld a divorced Muslim woman's right to maintenance under Section 125 CrPC."
+    },
+    {
+      "question": "The Muslim Women (Protection of Rights on Marriage) Act, which criminalised instant triple talaq, was enacted in:",
+      "options": {
+        "A": "2017",
+        "B": "2018",
+        "C": "2019",
+        "D": "2020"
+      },
+      "answer": {
+        "option": "C",
+        "text": "2019"
+      },
+      "explanation": "The Act was passed in July 2019, following the Supreme Court's 2017 Shayara Bano judgment setting aside instant triple talaq."
+    },
+    {
+      "question": "The Uniform Civil Code of Uttarakhand Act, 2024 expressly excludes which group from its operation?",
+      "options": {
+        "A": "Religious minorities",
+        "B": "Scheduled Tribes",
+        "C": "Residents of other states",
+        "D": "Live-in couples"
+      },
+      "answer": {
+        "option": "B",
+        "text": "Scheduled Tribes"
+      },
+      "explanation": "Section 2 of the Uttarakhand UCC excludes Scheduled Tribes, preserving their constitutionally protected customary laws."
+    },
+    {
+      "question": "Article 25(2)(a) of the Constitution enables the State to:",
+      "options": {
+        "A": "abolish all personal laws immediately",
+        "B": "regulate secular activities associated with religious practice",
+        "C": "deny freedom of religion to minorities",
+        "D": "override Article 44"
+      },
+      "answer": {
+        "option": "B",
+        "text": "regulate secular activities associated with religious practice"
+      },
+      "explanation": "Article 25(2)(a) permits the State to regulate economic, financial, political or other secular activities associated with religious practice."
+    },
+    {
+      "question": "The Sarla Mudgal case (1995) primarily dealt with:",
+      "options": {
+        "A": "triple talaq",
+        "B": "bigamy after conversion to Islam",
+        "C": "maintenance under Section 125 CrPC",
+        "D": "adoption rights of Christian women"
+      },
+      "answer": {
+        "option": "B",
+        "text": "bigamy after conversion to Islam"
+      },
+      "explanation": "The Supreme Court examined whether a Hindu man could solemnise a second marriage after converting to Islam without dissolving the first marriage."
+    },
+    {
+      "question": "Under classical Muslim personal law governing intestate succession, a daughter's share in inheritance is generally:",
+      "options": {
+        "A": "equal to that of a son",
+        "B": "half of that of a son",
+        "C": "double that of a son",
+        "D": "entirely denied"
+      },
+      "answer": {
+        "option": "B",
+        "text": "half of that of a son"
+      },
+      "explanation": "The petitioner in the recent Supreme Court challenge argued that female heirs receive half the share of male heirs of the same degree."
+    },
+    {
+      "question": "The 'essential religious practices' doctrine means that Article 25 protects:",
+      "options": {
+        "A": "all customs and usages associated with a religion",
+        "B": "only practices essential to a religion",
+        "C": "only personal laws enacted by the State",
+        "D": "all civil disputes between religious communities"
+      },
+      "answer": {
+        "option": "B",
+        "text": "only practices essential to a religion"
+      },
+      "explanation": "Courts protect practices integral to a religion under Article 25, not every secular or civil custom attached to religious identity."
+    },
+    {
+      "question": "Which State enacted the first Uniform Civil Code law after independence, receiving Presidential assent in March 2024?",
+      "options": {
+        "A": "Goa",
+        "B": "Uttarakhand",
+        "C": "Rajasthan",
+        "D": "Gujarat"
+      },
+      "answer": {
+        "option": "B",
+        "text": "Uttarakhand"
+      },
+      "explanation": "The Uttarakhand Uniform Civil Code Act, 2024 was the first such law enacted by an Indian state after independence, although Goa retains a Portuguese-era civil code."
+    }
+  ]
+}

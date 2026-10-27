@@ -1,0 +1,105 @@
+{
+  "essay": "We are drowning in information, while starving for wisdom. This paradox defines the modern human condition. The digital age has democratized access to data on an unprecedented scale, yet it has simultaneously eroded our capacity for deep understanding and judicious action. The sheer volume of information available today is staggering. Every minute, millions of emails are sent, billions of messages are exchanged on social media, and countless news articles, videos, and notifications compete for our attention. The human brain, evolved for a world of scarcity, is simply not equipped to process this relentless deluge meaningfully. We skim headlines instead of reading articles, watch snippets instead of full documentaries, and scroll through feeds that fragment our focus. The result is a pervasive sense of overwhelm—we are drowning in a sea of data, unable to retain or synthesize it into coherent knowledge.\n\nThis information explosion creates a dangerous illusion of knowledge. Instant access to search engines and social media feeds convinces us that we are well-informed because we can retrieve facts at will. However, possessing a fact is not the same as understanding its context, implications, and connections. We mistake the accumulation of data points for genuine insight. This illusion is exacerbated by algorithmic echo chambers that feed us information confirming our existing beliefs, creating a false sense of expertise. We become confident in our opinions without having done the hard work of critical analysis. The result is a society where people are quick to assert but slow to reflect, mistaking information for wisdom.\n\nWhat, then, is wisdom? Wisdom is not the mere accumulation of facts; it is the ability to discern what is true, what is right, and what is meaningful. It involves critical thinking, ethical judgment, and the capacity to apply knowledge to real-life situations. Wisdom requires reflection, experience, and a willingness to question one's own assumptions. It is the antidote to information overload because it prioritizes depth over breadth, understanding over data, and long-term flourishing over short-term gratification. While information can be downloaded, wisdom must be cultivated. It emerges from slow, deliberate engagement with ideas, from dialogue, from solitude, and from the humility to recognize the limits of one's knowledge.\n\nThe consequences of this imbalance are visible across society. In education, students are trained to memorize and retrieve information for exams rather than to think critically and creatively. In politics, citizens are swayed by viral soundbites and sensational headlines rather than substantive policy analysis. In personal life, we are constantly distracted by notifications, unable to focus deeply on relationships, work, or self-reflection. The cost is a loss of agency—we react to information rather than act with wisdom. We are busy but not thoughtful, informed but not enlightened.\n\nTo bridge the gap between information and wisdom, deliberate efforts are needed. First, we must cultivate digital literacy and critical thinking from an early age, teaching people not just to consume information but to evaluate its sources, biases, and purposes. Second, we need to create spaces for slow thinking—meditation, reading, journaling, and unstructured time—where wisdom can take root. Third, education must shift from information transmission to character formation, emphasizing ethics, empathy, and judgment. Finally, as individuals, we must consciously limit our information intake, curate our sources, and prioritize depth over novelty. Wisdom is not a luxury; it is a survival skill for a complex world. We must learn to swim in the ocean of information, not drown in it.",
+  "questions": [
+    {
+      "question": "According to the essay, why is the human brain unable to process the modern volume of information meaningfully?",
+      "options": [
+        "Because the brain has limited storage capacity",
+        "Because the brain evolved for a world of information scarcity",
+        "Because the brain lacks digital literacy",
+        "Because the brain cannot multitask"
+      ],
+      "answer": "Because the brain evolved for a world of information scarcity"
+    },
+    {
+      "question": "What does the essay mean by 'the illusion of knowledge'?",
+      "options": [
+        "The belief that all information online is true",
+        "The confidence gained from memorizing facts for exams",
+        "The false sense of being well-informed due to instant access to data",
+        "The illusion created by virtual reality"
+      ],
+      "answer": "The false sense of being well-informed due to instant access to data"
+    },
+    {
+      "question": "Which of the following is NOT described in the essay as a component of wisdom?",
+      "options": [
+        "Critical thinking",
+        "Ethical judgment",
+        "Accumulation of maximum facts",
+        "Reflection and experience"
+      ],
+      "answer": "Accumulation of maximum facts"
+    },
+    {
+      "question": "How does the essay characterize the role of algorithmic echo chambers?",
+      "options": [
+        "They expose people to diverse viewpoints",
+        "They confirm existing beliefs and create a false sense of expertise",
+        "They filter out misinformation effectively",
+        "They encourage deep reading and reflection"
+      ],
+      "answer": "They confirm existing beliefs and create a false sense of expertise"
+    },
+    {
+      "question": "Which of the following is suggested in the essay as a way to cultivate wisdom?",
+      "options": [
+        "Increasing daily information intake",
+        "Spending more time on social media",
+        "Creating spaces for slow thinking and reflection",
+        "Relying solely on search engines for facts"
+      ],
+      "answer": "Creating spaces for slow thinking and reflection"
+    },
+    {
+      "question": "According to the essay, what is the consequence of the information-wisdom imbalance in education?",
+      "options": [
+        "Students become creative thinkers",
+        "Students memorize and retrieve information rather than think critically",
+        "Students spend too much time on physical activity",
+        "Students develop strong ethical judgment"
+      ],
+      "answer": "Students memorize and retrieve information rather than think critically"
+    },
+    {
+      "question": "The essay compares information to an ocean. What does this metaphor suggest?",
+      "options": [
+        "Information is calm and manageable",
+        "We need to learn to navigate information without being overwhelmed",
+        "Information is scarce and precious",
+        "Wisdom is found only in water"
+      ],
+      "answer": "We need to learn to navigate information without being overwhelmed"
+    },
+    {
+      "question": "Which of the following best summarizes the essay's main argument?",
+      "options": [
+        "Information is harmful and should be avoided",
+        "Wisdom is innate and cannot be taught",
+        "We must consciously cultivate wisdom to avoid being overwhelmed by information",
+        "Digital technology is the root of all problems"
+      ],
+      "answer": "We must consciously cultivate wisdom to avoid being overwhelmed by information"
+    },
+    {
+      "question": "What does the essay suggest about the relationship between information and wisdom?",
+      "options": [
+        "Information automatically leads to wisdom",
+        "Wisdom is the same as having a lot of information",
+        "Wisdom requires applying knowledge with judgment, not just accumulating it",
+        "Wisdom is obsolete in the digital age"
+      ],
+      "answer": "Wisdom requires applying knowledge with judgment, not just accumulating it"
+    },
+    {
+      "question": "In the context of the essay, which of the following would be an example of 'starving for wisdom'?",
+      "options": [
+        "Reading a book slowly and reflecting on its lessons",
+        "Scrolling through endless news feeds without critical analysis",
+        "Engaging in a deep conversation with a mentor",
+        "Writing a journal entry about personal experiences"
+      ],
+      "answer": "Scrolling through endless news feeds without critical analysis"
+    }
+  ]
+}

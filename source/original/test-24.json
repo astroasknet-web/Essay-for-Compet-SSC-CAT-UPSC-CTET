@@ -1,0 +1,115 @@
+{
+  "essay": "Single-Use Plastic Ban and Waste Management: Successes, Failures, and the Way Forward\n\nSingle-use plastic has become one of the most visible symbols of modern environmental degradation. India has introduced legislative bans on specified single-use plastic items, and these measures represent an important symbolic and regulatory success. However, the gap between policy on paper and outcomes on the ground remains wide. The plastic crisis cannot be solved by prohibition alone; it requires a comprehensive approach that addresses enforcement, economic viability, health hazards, corporate accountability, informal-sector justice, civic behaviour, and circular infrastructure.\n\nThe first major failure is the enforcement gap. Despite strict legislative bans, lax municipal oversight allows the grey market manufacturing and circulation of single-use plastics to thrive unabated. Small units continue to produce banned carry bags, cutlery, and packaging, often shifting production to avoid inspections. Municipal authorities lack adequate staff, testing labs, and political backing to conduct regular raids and penalise violators. As a result, banned items remain easily available in local markets. Without robust monitoring and interdepartmental coordination, bans become symbolic rather than effective.\n\nThe second challenge is the economics of alternatives. The ban struggles at the grassroots level because eco-friendly substitutes such as compostable bags, bamboo products, and paper packaging remain economically unviable for small street vendors and micro, small and medium enterprises. These substitutes often cost several times more than conventional plastic. Vendors operating on thin margins cannot absorb the price difference, and consumers are unwilling to pay more. Unless alternatives are subsidised, produced at scale, and supported through supply-chain incentives, the transition will remain elitist and incomplete.\n\nThe third concern is the microplastics menace. Unmanaged plastic degrades in landfills and oceans into microplastics, which infiltrate the global food chain, agricultural soil, and even the human bloodstream. Microplastics have been found in drinking water, seafood, salt, and human blood samples. This is not merely an aesthetic problem of litter; it is a slow-moving public-health crisis. Burning plastic releases toxic fumes, and plastic waste in drains worsens urban flooding. The environmental and health costs of inaction far exceed the costs of regulation.\n\nThe fourth pillar is Extended Producer Responsibility, or EPR. There is an absolute necessity of holding massive FMCG and packaging corporations legally and financially accountable for the entire lifecycle and retrieval of their plastic waste. EPR should not become a paper exercise of buying certificates. Producers must fund collection, segregation, recycling, and safe disposal. Packaging must be redesigned to be reusable, recyclable, or compostable. Strong EPR rules can shift the cost of waste management from municipalities and taxpayers to the corporations that create the waste.\n\nThe fifth requirement is formalising the unorganised sector. India's recycling ecosystem depends heavily on an informal army of ragpickers and waste aggregators. These workers currently shoulder the burden of collection and sorting but remain unrecognised, unprotected, and poorly paid. They face health hazards without safety equipment or insurance. Formalising this sector means providing identity cards, safety gear, healthcare, fair prices, and integration into municipal waste systems. Without their involvement, any circular economy plan is incomplete.\n\nThe sixth barrier is civic behavioural inertia. There is a deeply ingrained public preference for absolute convenience. Plastic bags and disposable items are cheap, light, and convenient. Changing daily habits requires a combination of aggressive awareness campaigns and strict penalty enforcement. Nudges such as visible binning infrastructure, deposit-refund schemes, and community-level monitoring can help. But awareness alone is insufficient; penalties for littering and illegal use must be enforced consistently.\n\nFinally, building circular infrastructure is essential. We must shift away from the linear take-make-dispose model by massively scaling up municipal material recovery facilities, or MRFs, and mandatory source segregation. Wet waste should be composted or used for biogas; dry recyclables should be systematically collected. Recycling markets need support, and local bodies need modern equipment and trained staff. Circular design, repair, and reuse must become mainstream.\n\nIn conclusion, the single-use plastic ban has achieved awareness and some regulatory progress, but its successes are limited by weak enforcement, costly alternatives, unmanaged microplastics, weak EPR implementation, neglect of informal workers, behavioural inertia, and inadequate circular infrastructure. The way forward is an integrated strategy combining strict enforcement, economic support for alternatives, corporate accountability, worker justice, behavioural change, and circular infrastructure. Only such a holistic approach can move India from plastic bans to genuine plastic waste management.",
+  "questions": [
+    {
+      "question": "What is identified as the first major failure of single-use plastic bans in the essay?",
+      "options": [
+        "Lack of public awareness about plastic hazards",
+        "The enforcement gap due to lax municipal oversight and grey-market circulation",
+        "Excessive availability of compostable bags",
+        "Overproduction of bamboo products"
+      ],
+      "correct_answer": "B",
+      "answer": "B. The enforcement gap due to lax municipal oversight and grey-market circulation"
+    },
+    {
+      "question": "Why do eco-friendly alternatives struggle at the grassroots level according to the essay?",
+      "options": [
+        "They are not environmentally beneficial",
+        "They remain economically unviable for small vendors and MSMEs",
+        "They are banned by municipal laws",
+        "They are unavailable in urban markets"
+      ],
+      "correct_answer": "B",
+      "answer": "B. They remain economically unviable for small vendors and MSMEs"
+    },
+    {
+      "question": "What is the microplastics menace described as in the essay?",
+      "options": [
+        "A purely aesthetic problem of litter",
+        "A slow-moving public-health crisis affecting food chains, soil, and bloodstream",
+        "A problem limited to ocean water only",
+        "A problem caused only by industrial effluents"
+      ],
+      "correct_answer": "B",
+      "answer": "B. A slow-moving public-health crisis affecting food chains, soil, and bloodstream"
+    },
+    {
+      "question": "What does Extended Producer Responsibility (EPR) require?",
+      "options": [
+        "Consumers to pay extra taxes on all plastic items",
+        "FMCG and packaging corporations to be accountable for the lifecycle and retrieval of their plastic waste",
+        "Municipalities to bear the entire cost of plastic waste management",
+        "Ragpickers to manufacture compostable bags"
+      ],
+      "correct_answer": "B",
+      "answer": "B. FMCG and packaging corporations to be accountable for the lifecycle and retrieval of their plastic waste"
+    },
+    {
+      "question": "Formalising the unorganised sector in waste management includes:",
+      "options": [
+        "Banning ragpickers from municipal landfills",
+        "Providing identity cards, safety gear, healthcare, and fair prices to ragpickers and waste aggregators",
+        "Replacing informal workers with automated machines only",
+        "Exporting all plastic waste to other countries"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Providing identity cards, safety gear, healthcare, and fair prices to ragpickers and waste aggregators"
+    },
+    {
+      "question": "How can civic behavioural inertia regarding plastic use be addressed, as per the essay?",
+      "options": [
+        "Only through voluntary appeals without penalties",
+        "Through aggressive awareness campaigns combined with strict penalty enforcement",
+        "By making single-use plastic cheaper",
+        "By removing all binning infrastructure"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Through aggressive awareness campaigns combined with strict penalty enforcement"
+    },
+    {
+      "question": "What does building a circular infrastructure involve?",
+      "options": [
+        "Expanding the linear take-make-dispose model",
+        "Scaling up material recovery facilities and mandatory source segregation",
+        "Increasing landfill construction only",
+        "Encouraging unsegregated waste collection"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Scaling up material recovery facilities and mandatory source segregation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned in the essay as a challenge in plastic waste management?",
+      "options": [
+        "Enforcement gap",
+        "Economics of alternatives",
+        "Microplastics menace",
+        "Complete ban on all plastic production"
+      ],
+      "correct_answer": "D",
+      "answer": "D. Complete ban on all plastic production"
+    },
+    {
+      "question": "According to the essay, what is the way forward for plastic waste management?",
+      "options": [
+        "Relying only on legislative bans without enforcement",
+        "An integrated strategy combining enforcement, economic support, EPR, worker justice, behavioural change, and circular infrastructure",
+        "Promoting single-use plastic for convenience",
+        "Leaving waste management entirely to informal workers"
+      ],
+      "correct_answer": "B",
+      "answer": "B. An integrated strategy combining enforcement, economic support, EPR, worker justice, behavioural change, and circular infrastructure"
+    },
+    {
+      "question": "What is the central argument of the essay?",
+      "options": [
+        "Single-use plastic bans are completely successful and require no further action",
+        "Plastic crisis cannot be solved by prohibition alone; it needs a comprehensive waste-management approach",
+        "Eco-friendly alternatives are always cheaper than plastic",
+        "Microplastics have no impact on human health"
+      ],
+      "correct_answer": "B",
+      "answer": "B. Plastic crisis cannot be solved by prohibition alone; it needs a comprehensive waste-management approach"
+    }
+  ]
+}

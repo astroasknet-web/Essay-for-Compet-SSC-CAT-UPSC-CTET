@@ -1,0 +1,115 @@
+{
+  "essay": "The maxim 'Justice delayed is democracy denied; justice hurried is justice buried' captures the twin pathologies that afflict modern judicial systems, and it resonates with particular force in India. Democracy rests not merely on the right to vote but on the guarantee of equal and timely justice under the rule of law. When courts take years, sometimes decades, to decide disputes, the constitutional promise of equality and fairness is hollowed out. Yet when the pursuit of speed eclipses due process, the result is not justice but its caricature. The challenge for Indian democracy is therefore not to choose between delay and haste, but to build a justice system that is both timely and fair.\n\nThe backlog crisis is staggering. As on 31 December 2025, Indian courts together had approximately 5.41 crore cases pending across all three tiers, according to data from the National Judicial Data Grid placed before Parliament. District and subordinate courts accounted for about 4.76 crore cases, nearly 88 per cent of the national total, while the 25 High Courts held 63.66 lakh cases and the Supreme Court 92,101 cases. This is not merely an administrative statistic; it is a denial of the constitutional promise of equality, because those who can afford repeated adjournments and prolonged litigation are often the advantaged, while the poor wait endlessly for relief.\n\nThe economic and social toll is equally tragic. Around 74 per cent of India's prison population consists of undertrials, approximately five lakh persons who have not been convicted of any crime. Many languish in custody for periods longer than the maximum sentence they would have received if convicted, a direct negation of the presumption of innocence. Businesses, too, are paralysed by endless corporate litigation, with contracts, investments and employment opportunities held hostage to judicial uncertainty. Delay thus corrodes both liberty and livelihood.\n\nFrustration with delay has produced a dangerous demand for instant justice. Extrajudicial killings, often euphemistically called 'encounters', and aggressive media trials bypass due process and human rights. The Supreme Court's sixteen mandatory guidelines in People's Union for Civil Liberties v State of Maharashtra (2014) are binding, and the Court has reiterated that they apply regardless of whether the victim's family initiates a complaint. Media trials, meanwhile, can gravely prejudice the presumption of innocence. When the state shoots first and courts arrive later, or when television anchors pronounce guilt before evidence is tested, justice is not delivered but buried.\n\nSystemic bottlenecks explain much of the delay. High Courts had 319 vacant judge posts against a sanctioned strength of 1,122 as of March 2026, and the lower judiciary faced a shortage of over 5,000 judicial officers. Inadequate physical infrastructure, archaic procedures and a pervasive culture of adjournments compound the problem. No amount of judicial heroism can compensate for a system that is structurally under-resourced and procedurally inefficient.\n\nYet the solution cannot be reckless speed. Fast-track courts must accelerate timelines without compromising rigorous evidence evaluation and natural justice. Procedural fairness is not a luxury to be sacrificed at the altar of expediency; it is the very essence of justice. A hurried trial that convicts the innocent or acquits the guilty is worse than a delayed one, because it destroys the legitimacy of the judicial process itself.\n\nTechnology offers a balanced path forward. Under eCourts Phase III, with an outlay of Rs 7,210 crore, the government is expanding digital case management, virtual hearings and AI-assisted legal research. Tools such as LegRAA, Digital Courts 2.1, ASR-SHRUTI and PANINI can reduce administrative burdens and accelerate routine tasks while preserving judicial discretion and data privacy safeguards. Technology must, however, remain an aid to judges, not a substitute for human judgment.\n\nAlternative Dispute Resolution (ADR) is another vital safety valve. Lok Adalats, mediation and arbitration can de-clog the formal litigation system and resolve civil disputes amicably. Since 2022-23, more than 23.5 crore cases have been resolved through Lok Adalats across India, and a single National Lok Adalat in 2025 resolved 2.59 crore disputes. ADR is not a panacea for criminal or rights-based litigation, but it can significantly reduce the burden on formal courts.\n\nIn conclusion, democracy is denied when justice is delayed, and it is buried when justice is hurried. India must simultaneously address the backlog through judge recruitment, infrastructure, technology and ADR, while steadfastly protecting procedural fairness. The goal is not merely speed but timely justice, not merely disposal but fair adjudication. Only such a balance can sustain public faith in the rule of law and vindicate the constitutional promise of equality.",
+  "questions": [
+    {
+      "question": "According to the National Judicial Data Grid data placed before Parliament, what was the approximate total number of pending cases across all Indian courts as on 31 December 2025?",
+      "options": [
+        "4.76 crore",
+        "5.41 crore",
+        "6.20 crore",
+        "3.80 crore"
+      ],
+      "answer": "5.41 crore",
+      "explanation": "The all-tier total was approximately 5.41 crore cases, comprising 4.76 crore in district and subordinate courts, 63.66 lakh in High Courts and 92,101 in the Supreme Court."
+    },
+    {
+      "question": "Which tier of the Indian judiciary accounts for nearly 88 per cent of all pending cases?",
+      "options": [
+        "Supreme Court",
+        "High Courts",
+        "District and subordinate courts",
+        "Tribunals"
+      ],
+      "answer": "District and subordinate courts",
+      "explanation": "District and subordinate courts held about 4.76 crore of the roughly 5.41 crore pending cases, making them the overwhelming locus of judicial delay."
+    },
+    {
+      "question": "As per NCRB Prison Statistics, undertrial prisoners constituted approximately what percentage of India's total prison population in 2025?",
+      "options": [
+        "54 per cent",
+        "64 per cent",
+        "74 per cent",
+        "84 per cent"
+      ],
+      "answer": "74 per cent",
+      "explanation": "About 74 per cent of prison inmates were undertrials, meaning nearly three-fourths of those behind bars had not been convicted of any crime."
+    },
+    {
+      "question": "The mandatory guidelines laid down by the Supreme Court in People's Union for Civil Liberties v State of Maharashtra (2014) relate to which of the following?",
+      "options": [
+        "Media trials and reporting of criminal cases",
+        "Police encounters and extrajudicial killings",
+        "Rights of undertrial prisoners",
+        "Functioning of e-courts"
+      ],
+      "answer": "Police encounters and extrajudicial killings",
+      "explanation": "The PUCL judgment laid down sixteen mandatory procedural safeguards for police encounters and extrajudicial killings, including independent investigation and magisterial inquiry."
+    },
+    {
+      "question": "Which AI-based tool has been developed to assist Indian judges in legal research and document analysis?",
+      "options": [
+        "LegRAA",
+        "NYAYA",
+        "e-Sakshya",
+        "ICJS"
+      ],
+      "answer": "LegRAA",
+      "explanation": "LegRAA (Legal Research Analysis Assistant) is an AI-based tool developed to aid judges in legal research and document analysis, alongside Digital Courts 2.1."
+    },
+    {
+      "question": "What is the approved outlay for Phase III of the eCourts Mission Mode Project (2023–2027)?",
+      "options": [
+        "Rs 7,210 crore",
+        "Rs 5,000 crore",
+        "Rs 10,000 crore",
+        "Rs 3,500 crore"
+      ],
+      "answer": "Rs 7,210 crore",
+      "explanation": "eCourts Phase III was approved with an outlay of Rs 7,210 crore to enhance judicial productivity through information and communication technology."
+    },
+    {
+      "question": "Since 2022-23, approximately how many cases have been resolved through Lok Adalats across India?",
+      "options": [
+        "10 crore",
+        "15 crore",
+        "23.5 crore",
+        "30 crore"
+      ],
+      "answer": "23.5 crore",
+      "explanation": "From 2022-23 to 2024-25, more than 23.5 crore cases were resolved in various Lok Adalats, demonstrating the potential of alternative dispute resolution."
+    },
+    {
+      "question": "Which Article of the Constitution of India is primarily invoked to claim the right to a speedy trial?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer": "Article 21",
+      "explanation": "The right to a speedy trial is recognised as an integral part of the right to life and personal liberty under Article 21 of the Constitution."
+    },
+    {
+      "question": "As on 23 March 2026, how many posts of judges were vacant in the High Courts of India?",
+      "options": [
+        "200",
+        "319",
+        "400",
+        "500"
+      ],
+      "answer": "319",
+      "explanation": "Against a sanctioned strength of 1,122 High Court judges, 803 were working and 319 posts were vacant as on 23 March 2026."
+    },
+    {
+      "question": "The phrase 'justice hurried is justice buried' primarily warns against which of the following?",
+      "options": [
+        "Excessive adjournments by courts",
+        "Denial of free legal aid to the poor",
+        "Compromising due process and procedural fairness for speed",
+        "Promotion of alternative dispute resolution"
+      ],
+      "answer": "Compromising due process and procedural fairness for speed",
+      "explanation": "The phrase cautions that pursuing speed at the cost of evidence evaluation, natural justice and due process produces unjust outcomes, thereby burying justice itself."
+    }
+  ]
+}
