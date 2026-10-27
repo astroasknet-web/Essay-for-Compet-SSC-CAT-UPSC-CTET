@@ -95,8 +95,8 @@ for (const t of out) {
     const kw = [...content(q.options[ki])];
     if (kw.length >= 4) { const hit = kw.filter((w) => bodyWords.has(w)).length / kw.length; if (hit < 0.3) note(t.n, "review", `the correct option shares few words with the essay (${Math.round(hit * 100)}%): check that the essay supports it`, q.n); }
     // explanation: where the file gave none, quote the sentence of the essay that best supports the key (never invented text)
-    q.explanationSource = q.explanation ? "supplied" : null;
-    if (!q.explanation) {
+    q.explanationSource = q.explanation.length >= 30 ? "supplied" : null;
+    if (!q.explanationSource) {
       const sentences = t.body.replace(/\n+/g, " ").match(/[^.!?]+[.!?]+/g) || [];
       const want = new Set([...content(q.options[ki]), ...content(q.question)]);
       const keyWords = content(q.options[ki]);
