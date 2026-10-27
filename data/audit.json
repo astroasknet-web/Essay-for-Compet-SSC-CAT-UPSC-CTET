@@ -1,0 +1,392 @@
+[
+ {
+  "test": 1,
+  "question": null,
+  "level": "info",
+  "message": "8 questions have no explanation"
+ },
+ {
+  "test": 2,
+  "question": 1,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 2,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 3,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 4,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 5,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 6,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 7,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 8,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 9,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 2,
+  "question": 10,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 3,
+  "question": 1,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 2,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 3,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 4,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 5,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 6,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 7,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 8,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 9,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 3,
+  "question": 10,
+  "level": "fixed",
+  "message": "written-answer question given four options (authored from the essay); original model answer kept as the explanation"
+ },
+ {
+  "test": 4,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 5,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 6,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 7,
+  "question": null,
+  "level": "info",
+  "message": "9 questions have no explanation"
+ },
+ {
+  "test": 8,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 8,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 9,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 10,
+  "question": null,
+  "level": "info",
+  "message": "7 questions have no explanation"
+ },
+ {
+  "test": 11,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the first line of the essay"
+ },
+ {
+  "test": 11,
+  "question": null,
+  "level": "info",
+  "message": "9 questions have no explanation"
+ },
+ {
+  "test": 14,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 14,
+  "question": null,
+  "level": "info",
+  "message": "8 questions have no explanation"
+ },
+ {
+  "test": 17,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 17,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 18,
+  "question": null,
+  "level": "info",
+  "message": "8 questions have no explanation"
+ },
+ {
+  "test": 19,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 19,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 20,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 20,
+  "question": null,
+  "level": "warning",
+  "message": "essay has 571 words, below the 600 asked for"
+ },
+ {
+  "test": 20,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 21,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the first line of the essay"
+ },
+ {
+  "test": 21,
+  "question": null,
+  "level": "error",
+  "message": "the questions were pasted inside the essay text and the \"questions\" list was missing; 10 questions were separated from the essay and restored"
+ },
+ {
+  "test": 21,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 22,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the first line of the essay"
+ },
+ {
+  "test": 22,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 23,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the first line of the essay"
+ },
+ {
+  "test": 23,
+  "question": null,
+  "level": "warning",
+  "message": "essay has 594 words, below the 600 asked for"
+ },
+ {
+  "test": 23,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 24,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the first line of the essay"
+ },
+ {
+  "test": 24,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 25,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 25,
+  "question": null,
+  "level": "info",
+  "message": "9 questions have no explanation"
+ },
+ {
+  "test": 26,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 27,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 27,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 28,
+  "question": null,
+  "level": "warning",
+  "message": "essay has 1095 words, above the 900 asked for"
+ },
+ {
+  "test": 29,
+  "question": null,
+  "level": "info",
+  "message": "title taken from the topic list"
+ },
+ {
+  "test": 29,
+  "question": null,
+  "level": "warning",
+  "message": "essay has 564 words, below the 600 asked for"
+ },
+ {
+  "test": 29,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 30,
+  "question": null,
+  "level": "info",
+  "message": "10 questions have no explanation"
+ },
+ {
+  "test": 14,
+  "question": 3,
+  "level": "review",
+  "message": "the correct option shares few words with the essay (0%): check that the essay supports it"
+ },
+ {
+  "test": 28,
+  "question": 7,
+  "level": "review",
+  "message": "the correct option shares few words with the essay (0%): check that the essay supports it"
+ },
+ {
+  "test": 0,
+  "question": null,
+  "level": "fixed",
+  "message": "answer positions rebalanced in 201 questions (99 left as they were because their option order carries meaning, such as \"1 only / 2 only / both\" or numbers)"
+ }
+]
